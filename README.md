@@ -1,4 +1,4 @@
-Power Electronics & Control Theory Applied to Multiphase Motors
+# Power Electronics & Control Theory Applied to Multiphase Motors
 
 The purpose of this repository is to log the study regarding multiphase machines. The main areas covered here are power electronics and modern control theory, containing less emphasis on the electromagnetic and physical aspects of the motor.
 
