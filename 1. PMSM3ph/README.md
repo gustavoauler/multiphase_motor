@@ -29,7 +29,7 @@ $$
 \begin{align*}
 v_d = R_ai_d + L_d\frac{di_d}{dt} - N\omega i_qL_q\\
 v_q = R_ai_q + L_q\frac{di_q}{dt} + N\omega i_dL_d + \Psi_m N\omega\\
-J\frac{d\omega}{dt} = T_e - T_m - B_m\omega\\
+J\frac{d\omega}{dt} = \frac{3}{2}Ni_q\Psi_m - T_m - B_m\omega\\
 \end{align*}
 $$
 
